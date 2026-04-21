@@ -12,7 +12,8 @@ if idade >= 18:
     print("Você é maior de idade")
 else:
     print("Você é menor de idade")
-
+    
+#sobre animais
 while True:
     qtde = input("Quantos animais voce tem? (0, 1, 2 ou 3) ")
 
