@@ -24,6 +24,24 @@
 
 ---
 
+## Configurações do VS Code
+
+### Tema — One Dark Pro
+Tema de alto contraste, muito usado por programadores.
+
+**Como instalar:**
+1. Abra o VS Code
+2. Pressione `Ctrl + Shift + X` (abre a aba de extensões)
+3. Pesquise **One Dark Pro**
+4. Clique em **Install**
+
+**Como ativar:**
+1. Pressione `Ctrl + Shift + P`
+2. Digite **Color Theme**
+3. Selecione **One Dark Pro**
+
+---
+
 ## Passo 3 — Onde Aprender (grátis, em PT-BR)
 
 - **Curso em Vídeo** — cursoEmVideo.com.br (melhor opção em português)
